@@ -12,6 +12,8 @@ Yes, you would use a unit test to test the max message length feature. This is a
 
 ## Github pages links:
 
-Expose: [https://aidanfuller9.github.io/Lab5_Starter/expose.html]
+Expose:
+https://aidanfuller9.github.io/Lab5_Starter/expose.html
 
-Explore: [https://aidanfuller9.github.io/Lab5_Starter/eplore.html]
+Explore:
+https://aidanfuller9.github.io/Lab5_Starter/eplore.html
